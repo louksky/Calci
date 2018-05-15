@@ -20,7 +20,7 @@ public class MainMenuActivity extends AppCompatActivity {
 
 
 
-    public void onStorageClicked(View view) {
+    public void onBdaysClick(View view) {
         startActivity(new Intent(this, MainActivity.class));
     }
 
